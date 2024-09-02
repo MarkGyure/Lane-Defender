@@ -26,17 +26,6 @@
             ],
             "bindings": [
                 {
-                    "name": "",
-                    "id": "86dd3fbc-ef17-4c3b-b3af-0f4ac947a1de",
-                    "path": "",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Move",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
                     "name": "WS",
                     "id": "1344999e-e315-4a25-82cc-f51b0ad8164a",
                     "path": "1DAxis",
